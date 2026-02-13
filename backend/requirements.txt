@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+# No heavy ML libs needed for this prototype phase, using pure python logic
